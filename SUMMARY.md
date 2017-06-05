@@ -15,8 +15,8 @@
 * [Get Started](webhook/get-started.md)
 * [Create Order](webhook/create-order.md)
 * [Confirm Order](webhook/confirm-order.md)
-* [Payment](payment.md)
+* [Pending](payment.md)
 * [Confirm Payment](webhook/confirm-payment.md)
-* [Stock](webhook/stock.md)
-* [Logistic](webhook/logistic.md)
+* [Deduct Stock](webhook/stock.md)
+* [Shipping](webhook/logistic.md)
 
