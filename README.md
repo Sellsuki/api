@@ -1,3 +1,14 @@
-# My Awesome API
+# Step by Step Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+     Docs นี้จะช่วยคุณในการนำ Plug-in ของ Sellsuki ไปใช้บน Wordpress ร้านค้าของคุณ โดยคุณสามารถทำตามขั้นตอนด้านล่างนี้ได้แบบ Step by Step
+
+##### การติดตั้ง Plug-in บน Wordpress
+
+      เข้าไปที่
+
+
+
+
+
+
+
