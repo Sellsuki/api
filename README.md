@@ -8,3 +8,5 @@ Docs นี้จะช่วยคุณในการนำ Plug-in ของ
 
 ![](/assets/import1.png)
 
+หลังจากนั้น
+
