@@ -6,13 +6,11 @@
 
 ## API
 
-* [API-Get Started](api/get-started.md)
 * [API-Get Product](api/get-product.md)
 * [API-Create Order](api/create-order.md)
 
 ## Webhook
 
-* [Get Started](webhook/get-started.md)
 * [Create Order](webhook/create-order.md)
 * [Confirm Order](webhook/confirm-order.md)
 * [Pending](payment.md)
