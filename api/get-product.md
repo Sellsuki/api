@@ -21,8 +21,8 @@ API Call
 | name | ชื่อสินค้า |
 | description | คำอธิบายของสินค้า |
 | status | สถานะของสินค้า \(0 - delete , 1 - active\) |
-|  |  |
-|  |  |
+| store\_id | id ของร้านค้า |
+| variant\_1 , variant\_2 , variant\_3 | เก็บ variant ของสินค้าเช่น size,color หากไม่กำหนดจะเก็บข้อมูลเป็น SKU ที่ variant\_1 |
 |  |  |
 |  |  |
 |  |  |
