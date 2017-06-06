@@ -1,4 +1,4 @@
 ## Create Order
 
-เรามีบริการตรวจจับ Action Create Order เมื่อมีการ Create Order ขึ้นมา 
+เป็น Webhook ที่ใช้ติดต่อกับฐานข้อมูลของคุณ เมื่อมีการสร้าง Order ขึ้นมาใหม่
 
