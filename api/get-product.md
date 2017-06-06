@@ -10,5 +10,5 @@ API Call
 https://api.sellsuki.com/public/{Sellsuki Key}/products
 ```
 
-
+โดยผลลัพธ์ที่ได้รับมา
 
