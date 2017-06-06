@@ -1,9 +1,5 @@
 # Summary
 
-## Plug-in
-
-* [Plug-in Get Started ](README.md)
-
 ## API
 
 * [API-Get Products](api/get-product.md)
@@ -16,4 +12,8 @@
 * [Confirm Payment](webhook/confirm-payment.md)
 * [Deduct Stock](webhook/stock.md)
 * [Shipping](webhook/logistic.md)
+
+## Plug-in
+
+* [Plug-in Get Started ](README.md)
 
