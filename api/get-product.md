@@ -18,7 +18,12 @@ API Call
 | :--- | :--- |
 | id | id ของ product นั้น โดยจะเป็นการ  running number |
 | code\_temp | รหัสสินค้าที่ระบบของ Sellsuki ทำการ Generate ให้อัตโนมัติ |
-| \`llll\` |  |
+| name | ชื่อสินค้า |
+| description | คำอธิบายของสินค้า |
+| status | สถานะของสินค้า \(0 - delete , 1 - active\) |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
