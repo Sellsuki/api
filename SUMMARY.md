@@ -11,7 +11,6 @@
 
 ## Webhook
 
-* [Create Order](webhook/create-order.md)
 * [Confirm Order](webhook/confirm-order.md)
 * [Pending](payment.md)
 * [Confirm Payment](webhook/confirm-payment.md)
