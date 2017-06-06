@@ -16,7 +16,7 @@ https://api.sellsuki.com/public/{Sellsuki Key}/products
 
 | **Name** | **Type** | **Description** |
 | :--- | :--- | :--- |
-| f |  |  |
+| id | BIGINT | id ของ product นั้น โดยจะเป็นการ  running number |
 |  |  |  |
 |  |  |  |
 |  |  |  |
