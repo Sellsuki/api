@@ -25,6 +25,18 @@ API Call
 | variant\_1 , variant\_2 , variant\_3 | เก็บ variant ของสินค้าเช่น size,color หากไม่กำหนดจะเก็บข้อมูลเป็น SKU ที่ variant\_1 |
 | option\_concat\_1 , option\_concat\_2 , option\_concat\_3 | เก็บลักษณะย่อยของ variant เช่น variant\_1 เก็บ size ใน option\_concat\_1 ก็จะเก็บเป็น S,M,L,XL เป็นต้น |
 
+* #### Attribute Product SKU
+
+| **Name** | **Description** |
+| :--- | :--- |
+| id | id ของ product\_sku เป็นการ running number |
+| code\_temp | รหัสสินค้าที่ระบบของ sellsuki ทำการ generate ให้อัตโนมัติ |
+| code | รหัสสินค้าที่ร้านค้ากำหนดขึ้นเอง |
+| price | ราคาของสินค้า |
+| status | สถานะของสินค้า \(0 - delete , 1 - active\) |
+| product\_id | รหัสของสินค้า จากตาราง Product |
+| option\_1 , option\_2 , option\_3 | ข้อมูลที่ตัดมาจาก option\_concat\_1 , option\_concat\_2 , option\_concat\_3 ตามลำดับ |
+
 ### Json
 
 ```js
