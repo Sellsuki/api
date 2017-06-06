@@ -6,8 +6,7 @@ API Get Product เป็น API ที่ให้บริการในก�
 
 API Call
 
-    [GET] https://api.sellsuki.com/public/{Sellsuki Key}/products `xcv
-    `
+    [GET] https://api.sellsuki.com/public/{Sellsuki Key}/products `xcv`
 
 ### Attribute
 
