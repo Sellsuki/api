@@ -15,8 +15,8 @@ https://api.sellsuki.com/public/{Sellsuki Key}/products
 * #### Attribute Product
 
 | **Name** | **Type** | **Description** |
-| :--- | :---: | :---: |
-| fer |  |  |
+| :--- | :--- | :--- |
+| f |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
