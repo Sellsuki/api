@@ -23,10 +23,7 @@ API Call
 | status | สถานะของสินค้า \(0 - delete , 1 - active\) |
 | store\_id | id ของร้านค้า |
 | variant\_1 , variant\_2 , variant\_3 | เก็บ variant ของสินค้าเช่น size,color หากไม่กำหนดจะเก็บข้อมูลเป็น SKU ที่ variant\_1 |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| option\_concat\_1 , option\_concat\_2 , option\_concat\_3 | เก็บลักษณะย่อยของ variant เช่น variant\_1 เก็บ size ใน option\_concat\_1 ก็จะเก็บเป็น S,M,L,XL เป็นต้น |
 
 ### Json
 
