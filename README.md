@@ -24,7 +24,13 @@ Docs นี้จะช่วยคุณในการนำ Plug-in ของ
 
 ![](/assets/import7.png)
 
-เมื่อเข้าสู่หน้า Setting แล้ว ให้เรานำ Sellsuki Key ที่ได้จากระบบของ Sellsuki \(ในเมนู **ตั้งค่า **--&gt; **ตั้งค่า Plugin ตะกร้าหน้าร้าน \(Beta\) ** --&gt; \)มาใส่ใน Textbox
+เมื่อเข้าสู่หน้า Setting แล้ว ให้เรานำ Sellsuki Key ที่ได้จากระบบของ Sellsuki \(ในเมนู **ตั้งค่า **--&gt; **ตั้งค่า Plugin ตะกร้าหน้าร้าน \(Beta\)** \) มาใส่ใน Textbox 
+
+![](/assets/import8.png)![](/assets/import10.png)
+
+
+
+
 
 -
 
