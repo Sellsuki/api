@@ -6,7 +6,7 @@
 
 ## API
 
-* [API-Get Product](api/get-product.md)
+* [API-Get Products](api/get-product.md)
 * [API-Create Order](api/create-order.md)
 
 ## Webhook
