@@ -10,7 +10,20 @@ API Call
 https://api.sellsuki.com/public/{Sellsuki Key}/products
 ```
 
-โดยผลลัพธ์ที่ได้รับมาจะมีลักษณะดังนี้
+### Attribute
+
+* #### Attribute Product
+
+| **Name** | **Type** | **Description** |
+| :--- | :---: | :---: |
+| fer |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+### Json
 
 ```js
 results: [
@@ -80,5 +93,5 @@ results: [
 },
 ```
 
-โดยรายละเอียดของแต่ละ Key มีดังนี้
+
 
