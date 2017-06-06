@@ -7,7 +7,7 @@ API Get Product เป็น API ที่ให้บริการในก�
 API Call
 
 ```
-[GET] https://api.sellsuki.com/public/{Sellsuki Key}/products
+[GET] https://api.sellsuki.com/public/{SELLSUKI_KEY}/products
 ```
 
 ### Attribute
@@ -18,7 +18,7 @@ API Call
 | :--- | :--- | :--- |
 | id | BIGINT | id ของ product นั้น โดยจะเป็นการ  running number |
 | code\_temp | VARCHAR | รหัสสินค้าที่ระบบของ Sellsuki ทำการ Generate ให้อัตโนมัติ |
-|  |  |  |
+| \`llll\` |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
