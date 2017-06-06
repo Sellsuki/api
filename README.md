@@ -1,4 +1,4 @@
-# Step by Step Guide
+# Get Started
 
 Docs นี้จะช่วยคุณในการนำ Plug-in ของ Sellsuki ไปใช้บน Wordpress ร้านค้าของคุณ โดยคุณสามารถทำตามขั้นตอนด้านล่างนี้ได้แบบ Step by Step
 
@@ -31,8 +31,6 @@ Docs นี้จะช่วยคุณในการนำ Plug-in ของ
 เมื่อใส่ Sellsuki Key เรียบร้อยแล้ว ให้ คลิกที่ "**Advance Setting**" เพื่อเลือก Post Type เป็น **WooCommerce **\(ต้องติดตั้ง WooCommerce ก่อน ถึงจะมีตัวเลือกของ WooCommerce\)
 
 ![](/assets/import11.png)
-
-
 
 -
 

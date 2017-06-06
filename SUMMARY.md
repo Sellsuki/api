@@ -2,7 +2,7 @@
 
 ## Plug-in
 
-* [Plug-in Wordpress](README.md)
+* [Plug-in Get Started ](README.md)
 
 ## API
 
