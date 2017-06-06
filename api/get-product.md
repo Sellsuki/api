@@ -14,14 +14,14 @@ API Call
 
 * #### Attribute Product
 
-| **Name** | **Type** | **Description** |
-| :--- | :--- | :--- |
-| id | BIGINT | id ของ product นั้น โดยจะเป็นการ  running number |
-| code\_temp | VARCHAR | รหัสสินค้าที่ระบบของ Sellsuki ทำการ Generate ให้อัตโนมัติ |
-| \`llll\` |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| **Name** | **Description** |
+| :--- | :--- |
+| id | id ของ product นั้น โดยจะเป็นการ  running number |
+| code\_temp | รหัสสินค้าที่ระบบของ Sellsuki ทำการ Generate ให้อัตโนมัติ |
+| \`llll\` |  |
+|  |  |
+|  |  |
+|  |  |
 
 ### Json
 
