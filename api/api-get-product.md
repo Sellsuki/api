@@ -40,60 +40,60 @@ API Get Product เป็น API ที่ให้บริการในก�
 ```js
 results: [
 {
-id: "399804",
-code_temp: "PD00020",
-name: "EMS",
-description: "",
-status: "1",
-create_by_sellsuki_user_id: "9554",
-update_by_sellsuki_user_id: "9554",
-create_time: "2017-05-22 10:18:26",
-update_time: "2017-05-22 10:18:26",
-variant_1: "Size",
-variant_2: "",
-variant_3: "",
-gen_url: "",
-product_brand: null,
-product_tags: null,
-product_src: "https://sellsuki-picture.s3-ap-southeast-1.amazonaws.com/kQDKQCsKKx420150731T0523S2318740056711316220.png",
-photos: [
-"https://sellsuki-picture.s3-ap-southeast-1.amazonaws.com/kQDKQCsKKx420150731T0523S2318740056711316220.png"
-],
-skus: [
-{
-id: "796514",
-option1: "s",
-option2: "",
-option3: "",
-code: "PD00020-1",
-price: "250.00",
-status: "1",
-stock: "10",
-src: "https://sellsuki-picture.s3-ap-southeast-1.amazonaws.com/kQDKQCsKKx420150731T0523S2318740056711316220.png"
-},
-{
-id: "796515",
-option1: "m",
-option2: "",
-option3: "",
-code: "PD00020-2",
-price: "250.00",
-status: "1",
-stock: "10",
-src: ""
-},
-{
-id: "796516",
-option1: "l",
-option2: "",
-option3: "",
-code: "PD00020-3",
-price: "250.00",
-status: "1",
-stock: "10",
-src: ""
-}
-]
+    id: "399804",
+    code_temp: "PD00020",
+    name: "EMS",
+    description: "",
+    status: "1",
+    create_by_sellsuki_user_id: "9554",
+    update_by_sellsuki_user_id: "9554",
+    create_time: "2017-05-22 10:18:26",
+    update_time: "2017-05-22 10:18:26",
+    variant_1: "Size",
+    variant_2: "",
+    variant_3: "",
+    gen_url: "",
+    product_brand: null,
+    product_tags: null,
+    product_src: "https://sellsuki-picture.s3-ap-southeast-1.amazonaws.com/kQDKQCsKKx420150731T0523S2318740056711316220.png",
+    photos: [
+    "https://sellsuki-picture.s3-ap-southeast-1.amazonaws.com/kQDKQCsKKx420150731T0523S2318740056711316220.png"
+    ],
+    skus: [
+    {
+        id: "796514",
+        option1: "s",
+        option2: "",
+        option3: "",
+        code: "PD00020-1",
+        price: "250.00",
+        status: "1",
+        stock: "10",
+        src: "https://sellsuki-picture.s3-ap-southeast-1.amazonaws.com/kQDKQCsKKx420150731T0523S2318740056711316220.png"
+    },
+    {
+        id: "796515",
+        option1: "m",
+        option2: "",
+        option3: "",
+        code: "PD00020-2",
+        price: "250.00",
+        status: "1",
+        stock: "10",
+        src: ""
+    },
+    {
+        id: "796516",
+        option1: "l",
+        option2: "",
+        option3: "",
+        code: "PD00020-3",
+        price: "250.00",
+        status: "1",
+        stock: "10",
+        src: ""
+    }
+    ]
 }
 ]
 ```
