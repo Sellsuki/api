@@ -5,7 +5,7 @@ API Prepare to Ship เป็น API ที่ให้บริการใน�
 ### API Call
 
 ```
-[GET] https://api.sellsuki.com/
+[POST] https://api.sellsuki.com/
 ```
 
 ### Attribute

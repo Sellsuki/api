@@ -5,7 +5,7 @@ API Deduct Stock เป็น API ที่ให้บริการในก�
 ### API Call
 
 ```
-[GET] https://api.sellsuki.com/
+[POST] https://api.sellsuki.com/
 ```
 
 ### Attribute
