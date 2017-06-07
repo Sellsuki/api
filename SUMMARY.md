@@ -18,13 +18,7 @@
 * [Deduct Stock](webhook/stock.md)
 * [Shipping](webhook/logistic.md)
 
-## Plug-in
-
-* [Plug-in Get Started ](README.md)
-
 ## Plugin
 
-* Plug in Get Started 
-
-
+* [Plug in Get Started ](plugin/plug-in-get-started.md)
 
