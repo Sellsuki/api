@@ -70,8 +70,6 @@
         "sku_code": "COTTONNV230",
         "line_item_sfdc_id": null
     }],
-    "salename": "olrepublic@gmail.com",
-    "result": "{\"sfdcStatus\"😕"Failed Error Description >> Upsert failed. First exception on row 0; first error: INVALID_OR_NULL_FOR_RESTRICTED_PICKLIST, Paid to Bank: bad value for restricted picklist field: \u0e01\u0e2a\u0e34\u0e01\u0e23\u0e44\u0e17\u0e22: [Bank_Issue__c]\",\"saleorderRespList\":null}"
 }
 ```
 
