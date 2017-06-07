@@ -2,6 +2,7 @@
 
 ## API
 
+* [Introduction](README.md)
 * [API-Get Products](api/get-product.md)
 * [API-Get Product ](api/api-get-product.md)
 * [API-Create Order](api/create-order.md)
@@ -18,7 +19,7 @@
 * [Deduct Stock](webhook/stock.md)
 * [Shipping](webhook/logistic.md)
 
-## Plugin
+## Plug-in
 
-* [Plug in Get Started ](plugin/plug-in-get-started.md)
+* [Plug-in Get Started ](plugin/plug-in-get-started.md)
 
