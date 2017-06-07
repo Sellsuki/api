@@ -1,4 +1,16 @@
-## API Prepare to Ship 
+## API Prepare to Ship
+
+API Prepare to Ship เป็น API ที่ให้บริการในการดึงค่าข้อมูลต่างๆ ที่สถานะอยู่ในขั้นตอนของการเตรียมจัดส่ง
+
+### API Call
+
+```
+[GET] https://api.sellsuki.com/
+```
+
+### Attribute
+
+* #### Attribute Product
 
 
 
