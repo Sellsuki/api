@@ -1,18 +1,32 @@
-# 
-
-# ![](/assets/logo2.png)
+# Sellsuki Service
 
 ### API
 
-* [API Get Products](/api/get-product.md)
-* [API Get Product](/api/api-get-product.md)
-* [API Create Order](/api/create-order.md) \(in Progress\)
-* [API Update Order](/api/api-update-order.md) \(in Progress\)
-* [API Prepare to Ship](/api/api-prepare-to-ship.md)
-* [API Deduct Stock](/api/api-deduct-stock.md)
-* [API Shipping](/api/api-shipping.md)
+* [API Get Products](#)
+* [API Get Product](#)
+* [API Create Order](#)
+  \(in Progress\)
+* [API Update Order](#)
+  \(in Progress\)
+* [API Prepare to Ship](#)
+* [API Deduct Stock](#)
+* [API Shipping](#)
 
-### 
+### Webhook
+
+* [Confirm Order](#)
+  \(in Progress\)
+* [Pending](#)
+* [Confirm Payment](#)
+* [Deduct Stock](#)
+  \(in Progress\)
+* [Shipping](#)
+  \(in Progress\)
+
+### Plug-in
+
+* [Plug-in Get Started](#)
+* [Add Product](#)
 
 
 
