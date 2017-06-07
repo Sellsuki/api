@@ -25,6 +25,7 @@
 ### Plug-in
 
 * [Plug-in Get Started](/plugin/plug-in-get-started.md)
+* [Add Product](/plugin/add-product.md)
 
 
 
