@@ -10,7 +10,15 @@ API Prepare to Ship เป็น API ที่ให้บริการใน�
 
 ### Attribute
 
-* #### Attribute Product
+| **Name** | **Description** |
+| :--- | :--- |
+| bill\_id | เป็นเลข ID ของ Bill |
+
+### Json
+
+```
+
+```
 
 
 
