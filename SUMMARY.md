@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [Get Started](introduction/introduction.md)
+* [Get Started](readme.md)
 
 ## API
 

@@ -1,4 +1,4 @@
-# Sellsuki Service
+# ![](/assets/logo2.png)
 
 ### API
 
@@ -11,22 +11,6 @@
 * [API Prepare to Ship](#)
 * [API Deduct Stock](#)
 * [API Shipping](#)
-
-### Webhook
-
-* [Confirm Order](#)
-  \(in Progress\)
-* [Pending](#)
-* [Confirm Payment](#)
-* [Deduct Stock](#)
-  \(in Progress\)
-* [Shipping](#)
-  \(in Progress\)
-
-### Plug-in
-
-* [Plug-in Get Started](#)
-* [Add Product](#)
 
 
 
