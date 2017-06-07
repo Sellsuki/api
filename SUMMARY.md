@@ -2,11 +2,11 @@
 
 ## Introduction
 
-* [Get Started](readme.md)
+* [Get Started](README.md)
 
 ## API
 
-* [API-Introduction](README.md)
+* [API Introduction](readme.md)
 * [API-Get Products](api/get-product.md)
 * [API-Get Product ](api/api-get-product.md)
 * [API-Create Order \(in Progress\)](api/create-order.md)
