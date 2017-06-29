@@ -18,7 +18,7 @@
 ## Webhook
 
 * [Webhook Introduction](webhook/webhook-introduction.md)
-* [Confirm Order \(in Progress\)](webhook/confirm-order.md)
+* [Confirm Order](webhook/confirm-order.md)
 * [Pending](payment.md)
 * [Confirm Payment](webhook/confirm-payment.md)
 * [Deduct Stock \(in Progress\)](webhook/stock.md)
