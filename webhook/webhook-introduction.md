@@ -1,4 +1,4 @@
-# ![](/assets/logo2.png)
+# ![](../assets/logo2.png)
 
 ### Webhook
 
